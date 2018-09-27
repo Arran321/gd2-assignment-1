@@ -1,0 +1,22 @@
+div{
+     border: 5px solid blue;
+     padding:20px;
+     margin:20px;
+     flex-grow: 1;
+
+
+
+}
+
+
+.supplemental-stories-colum{
+
+ display: flex;
+
+
+}
+
+.newspaper{
+background-color: red;
+
+}
